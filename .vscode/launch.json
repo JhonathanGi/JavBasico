@@ -1,0 +1,126 @@
+{
+    // Use IntelliSense para saber los atributos posibles.
+    // Mantenga el puntero para ver las descripciones de los existentes atributos.
+    // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch RegistroDatos",
+            "request": "launch",
+            "mainClass": "Paquete0.EjerciciosFinal.Aplicacion.RegistroDatos",
+            "projectName": "Proyecto0_5eafc83"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch BucleString",
+            "request": "launch",
+            "mainClass": "Paquete0.BucleString",
+            "projectName": "Proyecto0_5eafc83"
+        },
+        {
+            "type": "java",
+            "name": "Launch Datos",
+            "request": "launch",
+            "mainClass": "Paquete0.Datos",
+            "projectName": "Proyecto0_5eafc83"
+        },
+        {
+            "type": "java",
+            "name": "Launch SmartDeviceMain",
+            "request": "launch",
+            "mainClass": "Paquete0.Ejercicio4.SmartDeviceMain",
+            "projectName": "Proyecto0_5eafc83"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Paquete0.Ejercicio5.Main",
+            "projectName": "Proyecto0_5eafc83"
+        },
+        {
+            "type": "java",
+            "name": "Launch ApiRegistroMain",
+            "request": "launch",
+            "mainClass": "Paquete0.EjerciciosFinal.Aplicacion.ApiRegistroMain",
+            "projectName": "Proyecto0_5eafc83"
+        },
+        {
+            "type": "java",
+            "name": "Launch RegistroMain",
+            "request": "launch",
+            "mainClass": "Paquete0.EjerciciosFinal.Aplicacion.RegistroMain",
+            "projectName": "Proyecto0_5eafc83"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayBiMain",
+            "request": "launch",
+            "mainClass": "Paquete0.EjerciciosFinal.ArrayBiMain",
+            "projectName": "Proyecto0_5eafc83"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayListIntMain",
+            "request": "launch",
+            "mainClass": "Paquete0.EjerciciosFinal.ArrayListIntMain",
+            "projectName": "Proyecto0_5eafc83"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayListMain",
+            "request": "launch",
+            "mainClass": "Paquete0.EjerciciosFinal.ArrayListMain",
+            "projectName": "Proyecto0_5eafc83"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayMain",
+            "request": "launch",
+            "mainClass": "Paquete0.EjerciciosFinal.ArrayMain",
+            "projectName": "Proyecto0_5eafc83"
+        },
+        {
+            "type": "java",
+            "name": "Launch DividePorCeroMain",
+            "request": "launch",
+            "mainClass": "Paquete0.EjerciciosFinal.DividePorCeroMain",
+            "projectName": "Proyecto0_5eafc83"
+        },
+        {
+            "type": "java",
+            "name": "Launch FlujoDatosMain",
+            "request": "launch",
+            "mainClass": "Paquete0.EjerciciosFinal.FlujoDatosMain",
+            "projectName": "Proyecto0_5eafc83"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReversaMain",
+            "request": "launch",
+            "mainClass": "Paquete0.EjerciciosFinal.ReversaMain",
+            "projectName": "Proyecto0_5eafc83"
+        },
+        {
+            "type": "java",
+            "name": "Launch VectorMain",
+            "request": "launch",
+            "mainClass": "Paquete0.EjerciciosFinal.VectorMain",
+            "projectName": "Proyecto0_5eafc83"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrecioIva",
+            "request": "launch",
+            "mainClass": "Paquete0.PrecioIva",
+            "projectName": "Proyecto0_5eafc83"
+        }
+    ]
+}
